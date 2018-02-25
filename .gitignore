@@ -1,0 +1,4 @@
+jni/ffihugs
+jni/hugs
+jni/runhugs
+jni/*.o
