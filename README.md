@@ -35,7 +35,7 @@ $ cd
 $ cd src
 $ mkdir hs
 $ cd hs
-$ echo `main = putStrLn “hug me!”’ > hi.hs
+$ echo 'main = putStrLn “hug me!”’ > hi.hs
 $ hugs
 Hugs> :load hi
 Main> main
